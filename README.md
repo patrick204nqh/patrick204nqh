@@ -23,19 +23,19 @@ I'm a software developer passionate about building scalable web applications and
   <tr>
     <td>
       <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=patrick204nqh" alt="GitHub Streak"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=patrick204nqh&theme=react" alt="GitHub Streak"/>
       </a>
     </td>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=patrick204nqh&show_icons=true&count_private=true&theme=transparent" alt="GitHub Stats"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=patrick204nqh&show_icons=true&count_private=true&theme=react" alt="GitHub Stats"/>
       </a>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrick204nqh&show_icons=true&count_private=true&theme=transparent&layout=donut" alt="Top Languages"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrick204nqh&show_icons=true&count_private=true&theme=react&layout=donut" alt="Top Languages"/>
       </a>
     </td>
     <td>
