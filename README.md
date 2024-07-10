@@ -42,7 +42,14 @@ I'm a software developer passionate about building scalable web applications and
 </table>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=patrick204nqh&color=blue&style=flat" alt="Profile Views"/>
+  <img src="https://badges.pufler.dev/visits/patrick204nqh/patrick204nqh?style=flat&color=blue" alt="Visits Badge"/>
+  <img src="https://badges.pufler.dev/years/patrick204nqh?style=flat&color=blue" alt="Years Badge"/>
+  <img src="https://badges.pufler.dev/repos/patrick204nqh?style=flat&color=blue" alt="Repos Badge"/>
+  <img src="https://badges.pufler.dev/gists/patrick204nqh?style=flat&color=blue" alt="Gists Badge"/>
+  <img src="https://badges.pufler.dev/commits/monthly/patrick204nqh?style=flat&color=blue" alt="Monthly Commits Badge"/>
+  <img src="https://badges.pufler.dev/commits/weekly/patrick204nqh?style=flat&color=blue" alt="Weekly Commits Badge"/>
+  <img src="https://img.shields.io/github/followers/patrick204nqh?label=Follow&style=social" alt="GitHub Followers Badge"/>
+  <img src="https://img.shields.io/github/stars/patrick204nqh?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub Stars Badge"/>
 </p>
 
 ## 🔗 Connect with me
