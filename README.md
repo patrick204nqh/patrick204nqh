@@ -39,7 +39,6 @@ I'm a software developer passionate about building scalable web applications and
       </a>
     </td>
     <td>
-      # TODO: add more...
     </td>
   </tr>
 </table>
