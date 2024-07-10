@@ -48,4 +48,4 @@ I'm a software developer passionate about building scalable web applications and
 ## 🔗 Connect with me
 
 - [LinkedIn](https://www.linkedin.com/in/patrick204qnh)
-- 📫 Email: patrick204nqh@example.com
+- 📫 Email: patrick204nqh@outlook.com
