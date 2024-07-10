@@ -5,12 +5,16 @@ I'm a software developer passionate about building scalable web applications and
 ## 🔧 Technologies & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Ruby-000?&logo=Ruby" alt="Ruby"/>
-  <img src="https://img.shields.io/badge/-Ruby%20on%20Rails-000?&logo=Ruby-on-Rails" alt="Ruby on Rails"/>
-  <img src="https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/-React-000?&logo=React" alt="React"/>
-  <img src="https://img.shields.io/badge/-Node.js-000?&logo=Node.js" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/-Git-000?&logo=Git" alt="Git"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby"/>
+  <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="Ruby on Rails"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
 </p>
 
 ## 📈 Stats
