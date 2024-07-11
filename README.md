@@ -63,5 +63,11 @@ I'm a software developer passionate about building scalable web applications and
 
 ## 🔗 Connect with me
 
-- [LinkedIn](https://www.linkedin.com/in/patrick204qnh)
-- 📫 Email: patrick204nqh@outlook.com
+<p align="center">
+  <a href="mailto:patrick204nqh@outlook.com">
+    <img src="https://img.shields.io/badge/Email-patrick204nqh%40outlook.com-blue?style=flat&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/patrick204nqh/">
+    <img src="https://img.shields.io/badge/-patrick204qnh-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/patrick204nqh/" alt="LinkedIn Badge"/>
+  </a>
+</p>
