@@ -142,5 +142,8 @@ ___________ _/  |________|__| ____ |  | _\_____  \   _  \    /  |  |  ____   ___
     <a href="https://www.youtube.com/@patrick204nqh" >
       <img src="https://img.shields.io/badge/-patrick204nqh-FF0000?style=flat&logo=YouTube&logoColor=white" alt="YouTube Badge"/>
     </a>
+    <a href="https://patrick204nqh.medium.com">
+      <img src="https://img.shields.io/badge/-patrick204nqh-black?style=flat&logo=medium&logoColor=white" alt="Medium Badge"/>
+    </a>
   </p>
 </details>
