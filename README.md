@@ -2,6 +2,15 @@
 
 I'm a software developer passionate about building scalable web applications and continuously learning new technologies.
 
+```markdown
+              __         .__        __   _______________      _____               .__     
+___________ _/  |________|__| ____ |  | _\_____  \   _  \    /  |  |  ____   _____|  |__  
+\____ \__  \\   __\_  __ \  |/ ___\|  |/ //  ____/  /_\  \  /   |  |_/    \ / ____/  |  \ 
+|  |_> > __ \|  |  |  | \/  \  \___|    </       \  \_/   \/    ^   /   |  < <_|  |   Y  \
+|   __(____  /__|  |__|  |__|\___  >__|_ \_______ \_____  /\____   ||___|  /\__   |___|  /
+|__|       \/                    \/     \/       \/     \/      |__|     \/    |__|    \/ 
+```
+
 <details>
   <summary>
     <h3>🔧 Technologies & Tools</h2>
