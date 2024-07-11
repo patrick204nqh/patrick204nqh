@@ -39,6 +39,9 @@ I'm a software developer passionate about building scalable web applications and
       </a>
     </td>
     <td>
+      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=patrick204nqh&theme=github_dark&utcOffset=7 alt="Productive Time" />
+      </a>
     </td>
   </tr>
 </table>
