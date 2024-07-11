@@ -145,5 +145,11 @@ ___________ _/  |________|__| ____ |  | _\_____  \   _  \    /  |  |  ____   ___
     <a href="https://patrick204nqh.medium.com">
       <img src="https://img.shields.io/badge/-patrick204nqh-black?style=flat&logo=medium&logoColor=white" alt="Medium Badge"/>
     </a>
+    <a href="https://stackoverflow.com/users/13509016/patrick204nqh">
+      <img src="https://img.shields.io/badge/-patrick204nqh-F58025?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow Badge"/>
+    </a>
+    <a href="https://dev.to/patrick204nqh">
+      <img src="https://img.shields.io/badge/-patrick204nqh-0A0A0A?style=flat&logo=dev.to&logoColor=white" alt="DEV.to Badge"/>
+    </a>
   </p>
 </details>
