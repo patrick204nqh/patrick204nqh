@@ -18,19 +18,18 @@ ___________ _/  |________|__| ____ |  | _\_____  \   _  \    /  |  |  ____   ___
 
   <h5> 👨‍💻 Programming and Markup Languages </h5>
   <p align="left">
+    <img src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white alt="Bash">
+    <img src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white" alt="SQL" >
     <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white" alt="Ruby"/>
     <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP"/>
     <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
     <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML"/>
     <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS"/>
-    <img src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white" alt="SQL" >
-    <img src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white alt="Bash">
   </p>
 
   <h5> 🛠️ Frameworks and Libraries </h5>
   <p align="left">
     <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=white" alt="Ruby on Rails"/>
-    <img src="https://img.shields.io/badge/RSpec-8A2BE2?style=flat&logo=rspec&logoColor=white" alt="RSpec"/>
     <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Laravel"/>
     <img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white" alt="WordPress"/>
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js"/>
