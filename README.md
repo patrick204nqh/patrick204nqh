@@ -119,7 +119,7 @@ ___________ _/  |________|__| ____ |  | _\_____  \   _  \    /  |  |  ____   ___
     <h3> 🔗 Connect with me </h3>
   </summary>
 
-  <p align="center">
+  <p align="left">
     <a href="mailto:patrick204nqh@outlook.com">
       <img src="https://img.shields.io/badge/Email-patrick204nqh%40outlook.com-4285F4?style=flat&logo=gmail&logoColor=white" alt="Email Badge"/>
     </a>
@@ -129,7 +129,7 @@ ___________ _/  |________|__| ____ |  | _\_____  \   _  \    /  |  |  ____   ___
     <a href="https://www.instagram.com/patrick204nqh/">
       <img src="https://img.shields.io/badge/-patrick204nqh-E4405F?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/patrick204nqh/" alt="Instagram Badge"/>
     </a>
-      <a href="https://www.youtube.com/@patrick204nqh" >
+    <a href="https://www.youtube.com/@patrick204nqh" >
       <img src="https://img.shields.io/badge/-patrick204nqh-FF0000?style=flat&logo=YouTube&logoColor=white" alt="YouTube Badge"/>
     </a>
   </p>
