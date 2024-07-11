@@ -86,7 +86,7 @@ ___________ _/  |________|__| ____ |  | _\_____  \   _  \    /  |  |  ____   ___
       </td>
       <td>
         <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api?username=patrick204nqh&show_icons=true&theme=react" alt="GitHub Stats"/>
+          <img src="https://github-readme-stats.vercel.app/api?username=patrick204nqh&custom_title=Huy's%20GitHub%20statistics&show_icons=true&theme=react&rank_icon=percentile&include_all_commits=true" alt="GitHub Stats"/>
         </a>
       </td>
     </tr>
