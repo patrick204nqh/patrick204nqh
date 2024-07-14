@@ -34,6 +34,7 @@ ___________ _/  |________|__| ____ |  | _\_____  \   _  \    /  |  |  ____   ___
     <img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white" alt="WordPress"/>
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js"/>
     <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
+  <!--   <img src="https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=black" alt="React Native"/> -->
   <!--   <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.js"/> -->
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
   <!--   <img src="https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white" alt="Material-UI"/> -->
@@ -49,6 +50,9 @@ ___________ _/  |________|__| ____ |  | _\_____  \   _  \    /  |  |  ____   ___
     <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
     <img src="https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white" alt="Helm"/>
     <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white" alt="AWS"/>
+    <img src="https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="GCP"/>
+<!--     <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase"/> -->
+<!--     <img src="https://img.shields.io/badge/-Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase"/> -->
   </p>
   
   <h5> 💻 Software and Tools </h5>
