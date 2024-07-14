@@ -64,7 +64,7 @@ ___________ _/  |________|__| ____ |  | _\_____  \   _  \    /  |  |  ____   ___
     <img src="https://img.shields.io/badge/DBeaver-372923?style=flat&logo=dbeaver&logoColor=white" alt="DBeaver"/>
     <img src="https://img.shields.io/badge/ChatGPT-10a37f?style=flat&logo=openai&logoColor=white" alt="ChatGPT"/>
     <img src="https://img.shields.io/badge/Copilot-000000?style=flat&logo=githubcopilot&logoColor=white" alt="Github Copilot"/>
-    <img src="https://img.shields.io/badge/Skype-00AFF0?style=flat&logo=skype&logoColor=white" alt="Skype"/>
+    <img src="https://img.shields.io/badge/Skype-00AFF0?style=flat&logo=svelte&logoColor=white" alt="Skype"/>
     <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white" alt="Slack"/>
     <img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white" alt="Trello"/>
 <!--     <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" alt="Notion"/> -->
