@@ -37,6 +37,7 @@ ___________ _/  |________|__| ____ |  | _\_____  \   _  \    /  |  |  ____   ___
   <!--   <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.js"/> -->
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
   <!--   <img src="https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white" alt="Material-UI"/> -->
+    <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white" alt="Graphql"/>
   </p>
   
   <h5> 🗄️ Databases and Cloud Hosting </h5>
@@ -47,11 +48,13 @@ ___________ _/  |________|__| ____ |  | _\_____  \   _  \    /  |  |  ____   ___
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
     <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
     <img src="https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white" alt="Helm"/>
-    <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS"/>
+    <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white" alt="AWS"/>
   </p>
   
   <h5> 💻 Software and Tools </h5>
   <p align="left">
+    <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux"/>
+    <img src="https://img.shields.io/badge/-macOS-000000?style=flat&logo=apple&logoColor=white" alt="MacOS"/>
     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
     <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
     <img src="https://img.shields.io/badge/Arc-FCBFBD?style=flat&logo=arc&logoColor=white" alt="Arc"/>
@@ -130,6 +133,9 @@ ___________ _/  |________|__| ____ |  | _\_____  \   _  \    /  |  |  ____   ___
   </summary>
 
   <p align="left">
+    <a href="https://patrick204nqh.github.io">
+      <img src="https://img.shields.io/badge/Blog-patrick204nqh.github.io-1793D1?style=flat&logo=linuxserver&logoColor=white" alt="Blog Badge"/>
+    </a>
     <a href="mailto:patrick204nqh@outlook.com">
       <img src="https://img.shields.io/badge/Email-patrick204nqh%40outlook.com-4285F4?style=flat&logo=gmail&logoColor=white" alt="Email Badge"/>
     </a>
