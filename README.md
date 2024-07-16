@@ -129,7 +129,7 @@ ___________ _/  |________|__| ____ |  | _\_____  \   _  \    /  |  |  ____   ___
   <p align="center">
     <b> My latest stars </b>
   </p>
-  <img src="https://badges.pufler.dev/last-stars/patrick204nqh?count=6&padding=0&perRow=3" alt="Latest stars"/>
+  <img src="https://badges.pufler.dev/last-stars/patrick204nqh/?count=6&padding=0&perRow=3&a=1" alt="Latest stars"/>
 </details>
 
 <details open>
