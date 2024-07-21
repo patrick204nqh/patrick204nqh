@@ -106,7 +106,7 @@ ___________ _/  |________|__| ____ |  | _\_____  \   _  \    /  |  |  ____   ___
       </td>
       <td>
         <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-          <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=patrick204nqh&theme=github_dark&utcOffset=7 alt="Productive Time" />
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=patrick204nqh&theme=github_dark" alt="Productive Time" />
         </a>
       </td>
     </tr>
