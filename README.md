@@ -145,19 +145,19 @@ ___________ _/  |________|__| ____ |  | _\_____  \   _  \    /  |  |  ____   ___
       <img src="https://img.shields.io/badge/Email-patrick204nqh%40outlook.com-4285F4?style=flat&logo=gmail&logoColor=white" alt="Email Badge"/>
     </a>
     <a href="https://www.linkedin.com/in/patrick204nqh/">
-      <img src="https://img.shields.io/badge/-patrick204qnh-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/patrick204nqh/" alt="LinkedIn Badge"/>
+      <img src="https://img.shields.io/badge/-in/patrick204qnh-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/patrick204nqh/" alt="LinkedIn Badge"/>
     </a>
     <a href="https://www.instagram.com/patrick204nqh/">
-      <img src="https://img.shields.io/badge/-patrick204nqh-E4405F?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/patrick204nqh/" alt="Instagram Badge"/>
+      <img src="https://img.shields.io/badge/-@patrick204nqh-E4405F?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/patrick204nqh/" alt="Instagram Badge"/>
     </a>
     <a href="https://www.youtube.com/@patrick204nqh" >
-      <img src="https://img.shields.io/badge/-patrick204nqh-FF0000?style=flat&logo=YouTube&logoColor=white" alt="YouTube Badge"/>
+      <img src="https://img.shields.io/badge/-@patrick204nqh-FF0000?style=flat&logo=YouTube&logoColor=white" alt="YouTube Badge"/>
     </a>
     <a href="https://patrick204nqh.medium.com">
-      <img src="https://img.shields.io/badge/-patrick204nqh-black?style=flat&logo=medium&logoColor=white" alt="Medium Badge"/>
+      <img src="https://img.shields.io/badge/-patrick204nqh.medium.com-black?style=flat&logo=medium&logoColor=white" alt="Medium Badge"/>
     </a>
     <a href="https://patrick204nqh.substack.com">
-      <img src="https://img.shields.io/badge/-patrick204nqh-%23FF6719.svg?&style=flat&logo=substack&logoColor=white" alt="Substack Badge"/>
+      <img src="https://img.shields.io/badge/-patrick204nqh.substack.com-%23FF6719.svg?&style=flat&logo=substack&logoColor=white" alt="Substack Badge"/>
     </a>
     <a href="https://stackoverflow.com/users/13509016/patrick204nqh">
       <img src="https://img.shields.io/badge/-patrick204nqh-F58025?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow Badge"/>
@@ -167,6 +167,9 @@ ___________ _/  |________|__| ____ |  | _\_____  \   _  \    /  |  |  ____   ___
     </a>
     <a href="https://www.pinterest.com/patrick204nqh/">
       <img src="https://img.shields.io/badge/-patrick204nqh-E60023?style=flat&logo=pinterest&logoColor=white" alt="Pinterest Badge"/>
+    </a>
+    <a href="https://mastodon.social/@patrick204nqh">
+      <img src="https://img.shields.io/badge/-@patrick204nqh-6364FF?style=flat&logo=Mastodon&logoColor=white" alt="Pinterest Badge"/>
     </a>
   </p>
 </details>
