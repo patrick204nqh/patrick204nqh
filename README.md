@@ -165,6 +165,9 @@ ___________ _/  |________|__| ____ |  | _\_____  \   _  \    /  |  |  ____   ___
     <a href="https://dev.to/patrick204nqh">
       <img src="https://img.shields.io/badge/-patrick204nqh-0A0A0A?style=flat&logo=dev.to&logoColor=white" alt="DEV.to Badge"/>
     </a>
+    <a href="https://www.reddit.com/user/patrick204nqh">
+      <img src="https://img.shields.io/badge/-u/patrick204nqh-FF4500?style=flat&logo=reddit&logoColor=white" alt="Reddit Profile">
+    </a>
     <a href="https://www.pinterest.com/patrick204nqh/">
       <img src="https://img.shields.io/badge/-patrick204nqh-E60023?style=flat&logo=pinterest&logoColor=white" alt="Pinterest Badge"/>
     </a>
