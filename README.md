@@ -153,14 +153,26 @@ ___________ _/  |________|__| ____ |  | _\_____  \   _  \    /  |  |  ____   ___
     <a href="https://www.youtube.com/@patrick204nqh" >
       <img src="https://img.shields.io/badge/-@patrick204nqh-FF0000?style=flat&logo=YouTube&logoColor=white" alt="YouTube Badge"/>
     </a>
+    <a href="https://x.com/patrick204nqh">
+        <img src="https://img.shields.io/badge/-@patrick204nqh-000000?style=flat&logo=x&logoColor=white" alt="Twitter Badge"/>
+    </a>
     <a href="https://patrick204nqh.medium.com">
       <img src="https://img.shields.io/badge/-patrick204nqh.medium.com-black?style=flat&logo=medium&logoColor=white" alt="Medium Badge"/>
+    </a>
+    <a href="https://patrick204nqh.hashnode.dev">
+      <img src="https://img.shields.io/badge/-patrick204nqh.hashnode.dev-2962FF?style=flat&logo=hashnode&logoColor=white" alt="Hashnode Blog"/>
     </a>
     <a href="https://patrick204nqh.substack.com">
       <img src="https://img.shields.io/badge/-patrick204nqh.substack.com-%23FF6719.svg?&style=flat&logo=substack&logoColor=white" alt="Substack Badge"/>
     </a>
     <a href="https://stackoverflow.com/users/13509016/patrick204nqh">
       <img src="https://img.shields.io/badge/-patrick204nqh-F58025?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow Badge"/>
+    </a>
+    <a href="https://www.freecodecamp.org/patrick204nqh">
+      <img src="https://img.shields.io/badge/-@patrick204nqh-0A0A23?style=flat&logo=freecodecamp&logoColor=white" alt="FreeCodeCamp Profile"/>
+    </a>
+    <a href="https://app.daily.dev/patrick204nqh">
+      <img src="https://img.shields.io/badge/-@patrick204nqh-CE3DF3?style=flat&logo=daily.dev&logoColor=white" alt="Daily.dev Profile"/>
     </a>
     <a href="https://dev.to/patrick204nqh">
       <img src="https://img.shields.io/badge/-patrick204nqh-0A0A0A?style=flat&logo=dev.to&logoColor=white" alt="DEV.to Badge"/>
