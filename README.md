@@ -63,7 +63,7 @@ ___________ _/  |________|__| ____ |  | _\_____  \   _  \    /  |  |  ____   ___
     <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
     <img src="https://img.shields.io/badge/Arc-FCBFBD?style=flat&logo=arc&logoColor=white" alt="Arc"/>
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
+    <img src="https://img.shields.io/badge/Gitlab-FC6D26?style=flat&logo=gitlab&logoColor=white" alt="GitLab"/>
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman"/>
     <img src="https://img.shields.io/badge/DBeaver-372923?style=flat&logo=dbeaver&logoColor=white" alt="DBeaver"/>
     <img src="https://img.shields.io/badge/ChatGPT-10a37f?style=flat&logo=openai&logoColor=white" alt="ChatGPT"/>
