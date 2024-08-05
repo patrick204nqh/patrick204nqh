@@ -152,6 +152,12 @@ ___________ _/  |________|__| ____ |  | _\_____  \   _  \    /  |  |  ____   ___
     <a href="https://www.linkedin.com/in/patrick204nqh/">
       <img src="https://img.shields.io/badge/-in/patrick204qnh-0A66C2?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
+    <a href="https://roadmap.sh/u/huy">
+      <img src="https://img.shields.io/badge/-u/huy-000000?style=flat&logo=roadmap.sh&logoColor=white" alt="Roadmap.sh Badge"/>
+    </a>
+    <a href="https://stackoverflow.com/users/13509016/patrick204nqh">
+      <img src="https://img.shields.io/badge/-patrick204nqh-F58025?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow Badge"/>
+    </a>
 <!--     <a href="https://www.instagram.com/patrick204nqh/">
       <img src="https://img.shields.io/badge/-@patrick204nqh-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     </a> -->
@@ -169,12 +175,6 @@ ___________ _/  |________|__| ____ |  | _\_____  \   _  \    /  |  |  ____   ___
     </a>
     <a href="https://patrick204nqh.substack.com">
       <img src="https://img.shields.io/badge/-patrick204nqh.substack.com-%23FF6719.svg?&style=flat&logo=substack&logoColor=white" alt="Substack Badge"/>
-    </a>
-    <a href="https://roadmap.sh/u/huy">
-      <img src="https://img.shields.io/badge/-u/huy-000000?style=flat&logo=roadmap.sh&logoColor=white" alt="Roadmap.sh Badge"/>
-    </a>
-    <a href="https://stackoverflow.com/users/13509016/patrick204nqh">
-      <img src="https://img.shields.io/badge/-patrick204nqh-F58025?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow Badge"/>
     </a>
 <!--     <a href="https://www.freecodecamp.org/patrick204nqh">
       <img src="https://img.shields.io/badge/-@patrick204nqh-0A0A23?style=flat&logo=freecodecamp&logoColor=white" alt="FreeCodeCamp Profile"/>
