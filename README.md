@@ -140,6 +140,9 @@ ___________ _/  |________|__| ____ |  | _\_____  \   _  \    /  |  |  ____   ___
   </summary>
 
   <p align="left">
+    <a href="https://orcid.org/0009-0001-4713-0625">
+      <img src="https://img.shields.io/badge/-0009--0001--4713--0625-A6CE39?style=flat&logo=orcid&logoColor=white" alt="ORCID Badge"/>
+    </a>
     <a href="https://patrick204nqh.github.io">
       <img src="https://img.shields.io/badge/Blog-patrick204nqh.github.io-1793D1?style=flat&logo=linuxserver&logoColor=white" alt="Blog Badge"/>
     </a>
@@ -147,10 +150,10 @@ ___________ _/  |________|__| ____ |  | _\_____  \   _  \    /  |  |  ____   ___
       <img src="https://img.shields.io/badge/Email-patrick204nqh%40outlook.com-4285F4?style=flat&logo=gmail&logoColor=white" alt="Email Badge"/>
     </a>
     <a href="https://www.linkedin.com/in/patrick204nqh/">
-      <img src="https://img.shields.io/badge/-in/patrick204qnh-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/patrick204nqh/" alt="LinkedIn Badge"/>
+      <img src="https://img.shields.io/badge/-in/patrick204qnh-0A66C2?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://www.instagram.com/patrick204nqh/">
-      <img src="https://img.shields.io/badge/-@patrick204nqh-E4405F?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/patrick204nqh/" alt="Instagram Badge"/>
+      <img src="https://img.shields.io/badge/-@patrick204nqh-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
     <a href="https://www.youtube.com/@patrick204nqh" >
       <img src="https://img.shields.io/badge/-@patrick204nqh-FF0000?style=flat&logo=YouTube&logoColor=white" alt="YouTube Badge"/>
