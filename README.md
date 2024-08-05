@@ -146,21 +146,21 @@ ___________ _/  |________|__| ____ |  | _\_____  \   _  \    /  |  |  ____   ___
     <a href="https://patrick204nqh.github.io">
       <img src="https://img.shields.io/badge/Blog-patrick204nqh.github.io-1793D1?style=flat&logo=linuxserver&logoColor=white" alt="Blog Badge"/>
     </a>
-    <a href="mailto:patrick204nqh@outlook.com">
+<!--     <a href="mailto:patrick204nqh@outlook.com">
       <img src="https://img.shields.io/badge/Email-patrick204nqh%40outlook.com-4285F4?style=flat&logo=gmail&logoColor=white" alt="Email Badge"/>
-    </a>
+    </a> -->
     <a href="https://www.linkedin.com/in/patrick204nqh/">
       <img src="https://img.shields.io/badge/-in/patrick204qnh-0A66C2?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://www.instagram.com/patrick204nqh/">
+<!--     <a href="https://www.instagram.com/patrick204nqh/">
       <img src="https://img.shields.io/badge/-@patrick204nqh-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-    </a>
-    <a href="https://www.youtube.com/@patrick204nqh" >
+    </a> -->
+<!--     <a href="https://www.youtube.com/@patrick204nqh" >
       <img src="https://img.shields.io/badge/-@patrick204nqh-FF0000?style=flat&logo=YouTube&logoColor=white" alt="YouTube Badge"/>
-    </a>
-    <a href="https://x.com/patrick204nqh">
+    </a> -->
+<!--     <a href="https://x.com/patrick204nqh">
         <img src="https://img.shields.io/badge/-@patrick204nqh-000000?style=flat&logo=x&logoColor=white" alt="Twitter Badge"/>
-    </a>
+    </a> -->
     <a href="https://patrick204nqh.medium.com">
       <img src="https://img.shields.io/badge/-patrick204nqh.medium.com-black?style=flat&logo=medium&logoColor=white" alt="Medium Badge"/>
     </a>
@@ -176,23 +176,23 @@ ___________ _/  |________|__| ____ |  | _\_____  \   _  \    /  |  |  ____   ___
     <a href="https://stackoverflow.com/users/13509016/patrick204nqh">
       <img src="https://img.shields.io/badge/-patrick204nqh-F58025?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow Badge"/>
     </a>
-    <a href="https://www.freecodecamp.org/patrick204nqh">
+<!--     <a href="https://www.freecodecamp.org/patrick204nqh">
       <img src="https://img.shields.io/badge/-@patrick204nqh-0A0A23?style=flat&logo=freecodecamp&logoColor=white" alt="FreeCodeCamp Profile"/>
-    </a>
-    <a href="https://app.daily.dev/patrick204nqh">
+    </a> -->
+<!--     <a href="https://app.daily.dev/patrick204nqh">
       <img src="https://img.shields.io/badge/-@patrick204nqh-CE3DF3?style=flat&logo=daily.dev&logoColor=white" alt="Daily.dev Profile"/>
-    </a>
-    <a href="https://dev.to/patrick204nqh">
-      <img src="https://img.shields.io/badge/-patrick204nqh-0A0A0A?style=flat&logo=dev.to&logoColor=white" alt="DEV.to Badge"/>
-    </a>
-    <a href="https://www.reddit.com/user/patrick204nqh">
+    </a> -->
+<!--     <a href="https://dev.to/patrick204nqh">
+      <img src="https://img.shields.io/badge/-@patrick204nqh-0A0A0A?style=flat&logo=dev.to&logoColor=white" alt="DEV.to Badge"/>
+    </a> -->
+<!--     <a href="https://www.reddit.com/user/patrick204nqh">
       <img src="https://img.shields.io/badge/-u/patrick204nqh-FF4500?style=flat&logo=reddit&logoColor=white" alt="Reddit Profile">
-    </a>
-    <a href="https://www.pinterest.com/patrick204nqh/">
+    </a> -->
+<!--     <a href="https://www.pinterest.com/patrick204nqh/">
       <img src="https://img.shields.io/badge/-patrick204nqh-E60023?style=flat&logo=pinterest&logoColor=white" alt="Pinterest Badge"/>
-    </a>
-    <a href="https://mastodon.social/@patrick204nqh">
+    </a> -->
+<!--     <a href="https://mastodon.social/@patrick204nqh">
       <img src="https://img.shields.io/badge/-@patrick204nqh-6364FF?style=flat&logo=Mastodon&logoColor=white" alt="Pinterest Badge"/>
-    </a>
+    </a> -->
   </p>
 </details>
