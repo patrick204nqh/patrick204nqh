@@ -165,6 +165,9 @@ ___________ _/  |________|__| ____ |  | _\_____  \   _  \    /  |  |  ____   ___
     <a href="https://patrick204nqh.substack.com">
       <img src="https://img.shields.io/badge/-patrick204nqh.substack.com-%23FF6719.svg?&style=flat&logo=substack&logoColor=white" alt="Substack Badge"/>
     </a>
+    <a href="https://roadmap.sh/u/huy">
+      <img src="https://img.shields.io/badge/-u/huy-000000?style=flat&logo=roadmap.sh&logoColor=white" alt="Roadmap.sh Badge"/>
+    </a>
     <a href="https://stackoverflow.com/users/13509016/patrick204nqh">
       <img src="https://img.shields.io/badge/-patrick204nqh-F58025?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow Badge"/>
     </a>
