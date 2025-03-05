@@ -143,21 +143,18 @@ ___________ _/  |________|__| ____ |  | _\_____  \   _  \    /  |  |  ____   ___
     <a href="https://orcid.org/0009-0001-4713-0625">
       <img src="https://img.shields.io/badge/-0009--0001--4713--0625-A6CE39?style=flat&logo=orcid&logoColor=white" alt="ORCID Badge"/>
     </a>
-    <a href="https://patrick204nqh.github.io">
-      <img src="https://img.shields.io/badge/Blog-patrick204nqh.github.io-1793D1?style=flat&logo=linuxserver&logoColor=white" alt="Blog Badge"/>
-    </a>
 <!--     <a href="mailto:patrick204nqh@outlook.com">
       <img src="https://img.shields.io/badge/Email-patrick204nqh%40outlook.com-4285F4?style=flat&logo=gmail&logoColor=white" alt="Email Badge"/>
     </a> -->
     <a href="https://www.linkedin.com/in/patrick204nqh/">
       <img src="https://img.shields.io/badge/-in/patrick204qnh-0A66C2?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://roadmap.sh/u/huy">
+<!--     <a href="https://roadmap.sh/u/huy">
       <img src="https://img.shields.io/badge/-u/huy-000000?style=flat&logo=roadmap.sh&logoColor=white" alt="Roadmap.sh Badge"/>
-    </a>
-    <a href="https://stackoverflow.com/users/13509016/patrick204nqh">
+    </a> -->
+<!--     <a href="https://stackoverflow.com/users/13509016/patrick204nqh">
       <img src="https://img.shields.io/badge/-patrick204nqh-F58025?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow Badge"/>
-    </a>
+    </a> -->
 <!--     <a href="https://www.instagram.com/patrick204nqh/">
       <img src="https://img.shields.io/badge/-@patrick204nqh-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     </a> -->
@@ -167,12 +164,15 @@ ___________ _/  |________|__| ____ |  | _\_____  \   _  \    /  |  |  ____   ___
 <!--     <a href="https://x.com/patrick204nqh">
         <img src="https://img.shields.io/badge/-@patrick204nqh-000000?style=flat&logo=x&logoColor=white" alt="Twitter Badge"/>
     </a> -->
+    <a href="https://patrick204nqh.github.io">
+      <img src="https://img.shields.io/badge/Blog-patrick204nqh.github.io-1793D1?style=flat&logo=linuxserver&logoColor=white" alt="Blog Badge"/>
+    </a>
     <a href="https://patrick204nqh.medium.com">
       <img src="https://img.shields.io/badge/-patrick204nqh.medium.com-black?style=flat&logo=medium&logoColor=white" alt="Medium Badge"/>
     </a>
-    <a href="https://patrick204nqh.hashnode.dev">
+<!--     <a href="https://patrick204nqh.hashnode.dev">
       <img src="https://img.shields.io/badge/-patrick204nqh.hashnode.dev-2962FF?style=flat&logo=hashnode&logoColor=white" alt="Hashnode Blog"/>
-    </a>
+    </a> -->
     <a href="https://patrick204nqh.substack.com">
       <img src="https://img.shields.io/badge/-patrick204nqh.substack.com-%23FF6719.svg?&style=flat&logo=substack&logoColor=white" alt="Substack Badge"/>
     </a>
