@@ -1,6 +1,6 @@
 # Hello! I'm Patrick 👋
 
-Turning ideas into innovative solutions 🔬
+Turning ideas into innovative solutions ⛵
 
 <details>
   <summary><strong>🔧 Technologies & Tools</strong></summary>
