@@ -112,23 +112,37 @@ Turning ideas into innovative solutions 🔬
       </td>
     </tr>
   </table>
+  
   <p align="center">
-    <b>My profile stats</b>
+    <b>📊 Profile Metrics</b>
   </p>
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=patrick204nqh&color=blue&style=flat" alt="Profile Views"/>
-    <img src="https://badges.pufler.dev/years/patrick204nqh?style=flat&color=blue" alt="Years Badge"/>
-    <img src="https://badges.pufler.dev/repos/patrick204nqh?style=flat&color=blue" alt="Repos Badge"/>
-    <img src="https://badges.pufler.dev/gists/patrick204nqh?style=flat&color=blue" alt="Gists Badge"/>
-    <img src="https://badges.pufler.dev/commits/monthly/patrick204nqh?style=flat&color=blue" alt="Monthly Commits Badge"/>
-    <img src="https://badges.pufler.dev/commits/weekly/patrick204nqh?style=flat&color=blue" alt="Weekly Commits Badge"/>
-    <img src="https://img.shields.io/github/followers/patrick204nqh?label=Follow&style=social" alt="GitHub Followers Badge"/>
-    <img src="https://img.shields.io/github/stars/patrick204nqh?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub Stars Badge"/>
+    <img src="https://komarev.com/ghpvc/?username=patrick204nqh&color=0891b2&style=for-the-badge" alt="Profile Views"/>
+    <img src="https://img.shields.io/badge/dynamic/json?color=0891b2&label=Account%20Age&query=%24.data.years&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fpatrick204nqh&style=for-the-badge&suffix=%20years" alt="Years on GitHub"/>
+    <img src="https://img.shields.io/badge/dynamic/json?color=0891b2&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fpatrick204nqh&style=for-the-badge" alt="Public Repos"/>
+    <img src="https://img.shields.io/badge/dynamic/json?color=0891b2&label=Public%20Gists&query=%24.public_gists&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fpatrick204nqh&style=for-the-badge" alt="Public Gists"/>
   </p>
   <p align="center">
-    <b>My latest stars</b>
+    <img src="https://img.shields.io/github/followers/patrick204nqh?label=Followers&style=for-the-badge&color=0891b2" alt="GitHub Followers"/>
+    <img src="https://img.shields.io/github/stars/patrick204nqh?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=0891b2&label=Total%20Stars" alt="GitHub Stars"/>
+    <img src="https://img.shields.io/badge/dynamic/json?label=Total%20Commits%202024&query=%24.total&url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fcommits%3Fq%3Dauthor%3Apatrick204nqh%2520committer-date%3A2024-01-01..2024-12-31&style=for-the-badge&color=0891b2" alt="Total Commits"/>
   </p>
-  <img src="https://badges.pufler.dev/last-stars/patrick204nqh/?count=6&padding=0&perRow=3&a=1" alt="Latest stars"/>
+  
+  <details>
+    <summary><b>📈 Activity Graph</b></summary>
+    <br>
+    <p align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=patrick204nqh&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Activity Graph"/>
+    </p>
+  </details>
+  
+  <details>
+    <summary><b>🏆 GitHub Trophies</b></summary>
+    <br>
+    <p align="center">
+      <img src="https://github-profile-trophy.vercel.app/?username=patrick204nqh&theme=algolia&no-frame=true&margin-w=15&column=5&no-bg=true" alt="GitHub Trophies"/>
+    </p>
+  </details>
 </details>
 
 <details open>
@@ -138,10 +152,7 @@ Turning ideas into innovative solutions 🔬
       <img src="https://img.shields.io/badge/-0009--0001--4713--0625-A6CE39?style=flat&logo=orcid&logoColor=white" alt="ORCID Badge"/>
     </a>
     <a href="https://www.linkedin.com/in/patrick204nqh/">
-      <img src="https://img.shields.io/badge/-in/patrick204qnh-0A66C2?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://patrick204nqh.medium.com">
-      <img src="https://img.shields.io/badge/-patrick204nqh.medium.com-black?style=flat&logo=medium&logoColor=white" alt="Medium Badge"/>
+      <img src="https://img.shields.io/badge/-in/patrick204nqh-0A66C2?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://patrick204nqh.substack.com">
       <img src="https://img.shields.io/badge/-patrick204nqh.substack.com-%23FF6719.svg?&style=flat&logo=substack&logoColor=white" alt="Substack Badge"/>
