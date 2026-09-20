@@ -6,7 +6,7 @@
   <img src="assets/ship.svg" alt="Sailing ship" width="120"/>
 </p>
 
-*Patrick — software engineer, Sai Gon*
+*Software engineer, Sai Gon*
 
 I build Ruby tooling for AI agents and the people who maintain software.
 Durable, boring infrastructure over clever tricks.
