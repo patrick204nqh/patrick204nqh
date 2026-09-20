@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="12 5 165 165" fill="none">
+  <!-- X3 Monoline — primary brand mark (tight crop, no text) -->
+  <path d="M25 148 C30 148 35 165 48 168 L152 168 C165 165 170 148 175 148" stroke="#7ab7ef" stroke-width="3" stroke-linecap="round"/>
+  <line x1="100" y1="20" x2="100" y2="148" stroke="#7ab7ef" stroke-width="3" stroke-linecap="round"/>
+  <line x1="72" y1="45" x2="72" y2="148" stroke="#7ab7ef" stroke-width="2" stroke-linecap="round"/>
+  <line x1="132" y1="50" x2="132" y2="148" stroke="#7ab7ef" stroke-width="2" stroke-linecap="round"/>
+  <path d="M100 25 C130 25 160 55 168 115 L100 120" stroke="#7ab7ef" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <path d="M100 25 C95 25 100 70 100 120" stroke="#7ab7ef" stroke-width="1" opacity="0.3"/>
+  <path d="M72 50 C55 50 40 65 32 95 L72 100" stroke="#7ab7ef" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <path d="M132 55 C148 55 160 65 168 95 L132 100" stroke="#7ab7ef" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <path d="M72 50 C65 60 40 80 18 105" stroke="#7ab7ef" stroke-width="1.5" fill="none" stroke-linecap="round" opacity="0.5"/>
+  <line x1="55" y1="128" x2="18" y2="105" stroke="#7ab7ef" stroke-width="2" stroke-linecap="round" opacity="0.6"/>
+  <path d="M100 20 L100 8 L132 13 L100 20" stroke="#7ab7ef" stroke-width="2" fill="none"/>
+</svg>
