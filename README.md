@@ -15,9 +15,9 @@ Durable, boring infrastructure over clever tricks.
 
 ## Projects
 
-- **dbwatcher** (Ruby) -- track and visualize database changes in Rails applications.
-- **triagekit** (TypeScript) -- repo triage in one self-contained HTML file. No server, no CDN.
-- **trace_viz** (Ruby) -- trace and visualize events executed in a block of code.
+- [**dbwatcher**](https://github.com/patrick204nqh/dbwatcher) (Ruby): track and visualize database changes in Rails applications.
+- [**triagekit**](https://github.com/patrick204nqh/triagekit) (TypeScript): repo triage in one self-contained HTML file. No server, no CDN.
+- [**trace_viz**](https://github.com/patrick204nqh/trace_viz) (Ruby): trace and visualize events executed in a block of code.
 
 ## How to reach me
 
