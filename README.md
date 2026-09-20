@@ -13,11 +13,6 @@ Durable, boring infrastructure over clever tricks.
 
 `Ruby` `Rails` `AI-agent tooling`
 
-## Now
-
-Building **dbwatcher** -- track and visualize database changes in Rails
-applications.
-
 ## Projects
 
 - **dbwatcher** (Ruby) -- track and visualize database changes in Rails applications.
