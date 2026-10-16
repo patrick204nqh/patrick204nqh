@@ -1,4 +1,4 @@
-<table><tr>
+<table width="560"><tr>
 <td width="100"><img src="assets/ship-emblem-light.svg" width="90" alt="Patrick"/></td>
 <td>
 
