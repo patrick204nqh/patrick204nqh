@@ -1,5 +1,5 @@
-<table width="560"><tr>
-<td width="100"><img src="assets/ship-emblem-light.svg" width="90" alt="Patrick"/></td>
+<table width="640"><tr>
+<td width="130"><img src="assets/ship-emblem-light.svg" width="120" alt="Patrick"/></td>
 <td>
 
 ## Patrick
