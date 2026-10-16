@@ -1,10 +1,9 @@
-# Patrick
+<table><tr>
+<td width="100"><img src="assets/ship-emblem-light.svg" width="90" alt="Patrick"/></td>
+<td>
 
+## Patrick
 **Turning ideas into innovative solutions.**
-
-<p align="center">
-  <img src="assets/ship.svg" alt="Sailing ship" width="120"/>
-</p>
 
 *Software engineer, Sai Gon*
 
@@ -12,12 +11,13 @@ I build Ruby tooling for AI agents and the people who maintain software.
 Durable, boring infrastructure over clever tricks.
 
 `Ruby` `Rails` `AI-agent tooling`
+</td></tr></table>
 
 ## Projects
 
-- [**dbwatcher**](https://github.com/patrick204nqh/dbwatcher) (Ruby): track and visualize database changes in Rails applications.
-- [**triagekit**](https://github.com/patrick204nqh/triagekit) (TypeScript): repo triage in one self-contained HTML file. No server, no CDN.
-- [**trace_viz**](https://github.com/patrick204nqh/trace_viz) (Ruby): trace and visualize events executed in a block of code.
+- [**dbwatcher**](https://github.com/patrick204nqh/dbwatcher) (Ruby) — track and visualize database changes in Rails applications.
+- [**triagekit**](https://github.com/patrick204nqh/triagekit) (TypeScript) — repo triage in one self-contained HTML file. No server, no CDN.
+- [**trace_viz**](https://github.com/patrick204nqh/trace_viz) (Ruby) — trace and visualize events executed in a block of code.
 
 ## How to reach me
 
