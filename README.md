@@ -16,8 +16,8 @@ Durable, boring infrastructure over clever tricks.
 ## Projects
 
 - [**dbwatcher**](https://github.com/patrick204nqh/dbwatcher) (Ruby) — track and visualize database changes in Rails applications.
+- [**doctree**](https://github.com/patrick204nqh/doctree) (JavaScript) — Chrome extension to read a local folder as a tree: Markdown, HTML, JSON, CSV and source files.
 - [**triagekit**](https://github.com/patrick204nqh/triagekit) (TypeScript) — repo triage in one self-contained HTML file. No server, no CDN.
-- [**trace_viz**](https://github.com/patrick204nqh/trace_viz) (Ruby) — trace and visualize events executed in a block of code.
 
 ## How to reach me
 
